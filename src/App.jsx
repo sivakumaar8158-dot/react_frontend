@@ -1,7 +1,7 @@
 import Chennai from "./components/chennai";
 import Karnataka from "./components/Karnataka";
 import Kerala from "./components/Kerala";
-
+import './App.css'
 
 const App = () =>{
 
